@@ -3,14 +3,15 @@
 🎓 CSE Student (JNTUH)
 💻 Aspiring Software Development Engineer
 🚀 Passionate about AI, Cloud & Web Development
+💡 Open to Internship & SDE Opportunities
 
 ---
 
 ## 🚀 About Me
 
-* Strong in **OOP & Data Structures**
-* Built **AI-based & cloud-integrated projects**
-* Interested in **scalable software systems**
+* Strong in **Object-Oriented Programming & Data Structures**
+* Experience in building **AI-based & cloud-integrated applications**
+* Interested in **scalable and efficient software systems**
 
 ---
 
@@ -19,30 +20,37 @@
 **Languages:** Python, C, SQL, JavaScript
 **Web:** HTML, CSS, JavaScript
 **AI/ML:** TensorFlow, PyTorch, NumPy, Pandas
-**Tools:** Git, GitHub, AWS, Power BI
+**Tools & Platforms:** Git, GitHub, AWS, Power BI
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚨 Accident Detection System
+### 🤖 AI Health Diagnostic Platform
 
-👉 Cloud-based emergency alert system using AWS
-🔗 https://github.com/MBhargavi18/accident-detection-system
+AI-based system for skin disease detection and risk prediction
+🔗 https://github.com/MBhargavi18/aI-HD
 
 ---
 
-### 🤖 AI Health Diagnostic Platform
+### 🚨 Accident Detection & Notification System
 
-👉 ML-based disease detection & prediction system
-🔗 https://github.com/MBhargavi18/ai-health-diagnostic-platform
+Cloud-based emergency alert system using AWS
+🔗 https://github.com/MBhargavi18/accidentdetection
 
 ---
 
 ### 🌐 Portfolio Website
 
-👉 Responsive personal portfolio
-🔗 https://github.com/MBhargavi18/portfolio-website
+Responsive personal portfolio with optimized performance
+🔗 https://github.com/MBhargavi18/portfolio
+
+---
+
+### 🎮 Mario Game
+
+Interactive browser-based game using JavaScript
+🔗 https://github.com/MBhargavi18/supermariocode
 
 ---
 
@@ -50,28 +58,22 @@
 
 **💻 Web Development Intern – Technology Learning Center**
 
-* Built responsive web applications
+* Developed responsive web applications using HTML, CSS, JavaScript
 
-**🌐 Prodigy Infotech**
+**🌐 Prodigy Infotech (Intern)**
 
-* Developed client-based web projects
+* Built client-based responsive web projects
 
 **☕ Cognifyz (Java Intern)**
 
-* Implemented OOP concepts & debugging
+* Implemented OOP concepts and improved application performance
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Code Unnati Marathon – Rank 1
-📢 Presented AI Project at IETE
-
----
-
-## 📊 GitHub Stats
-
-![Bhargavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBhargavi18\&show_icons=true\&theme=tokyonight)
+🥇 Ranked 1st in Code Unnati Marathon Program
+📢 Presented AI Health Diagnostic Project at IETE
 
 ---
 
@@ -81,3 +83,5 @@
 🔗 LinkedIn: https://www.linkedin.com/in/bhargavi-cse/
 
 ---
+
+⭐ *Building real-world projects and continuously improving my skills*
