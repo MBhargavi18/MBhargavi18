@@ -1,57 +1,48 @@
 # 👋 Hi, I'm Medaboina Bhargavi
 
-🎓 Computer Science Engineering Student (JNTUH)
-💻 Aspiring Software Development Engineer (SDE)
-🚀 Passionate about AI, Cloud Computing & Web Development
+🎓 CSE Student (JNTUH)
+💻 Aspiring Software Development Engineer
+🚀 Passionate about AI, Cloud & Web Development
 
 ---
 
 ## 🚀 About Me
 
-* Strong foundation in **Object-Oriented Programming & Data Structures**
-* Experience in building **AI-based and cloud-integrated applications**
-* Interested in developing **scalable and efficient software systems**
+* Strong in **OOP & Data Structures**
+* Built **AI-based & cloud-integrated projects**
+* Interested in **scalable software systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**
-Python | C | SQL | JavaScript
-
-**Web Development:**
-HTML | CSS | JavaScript
-
-**AI/ML:**
-TensorFlow | PyTorch | NumPy | Pandas
-
-**Tools & Platforms:**
-Git | GitHub | AWS | Power BI
+**Languages:** Python, C, SQL, JavaScript
+**Web:** HTML, CSS, JavaScript
+**AI/ML:** TensorFlow, PyTorch, NumPy, Pandas
+**Tools:** Git, GitHub, AWS, Power BI
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚨 Accident Detection & Notification System (AWS)
+### 🚨 Accident Detection System
 
-* QR-based accident alert system using AWS cloud
-* Sends real-time notifications to emergency contacts
-* Improves emergency response coordination
+👉 Cloud-based emergency alert system using AWS
+🔗 https://github.com/MBhargavi18/accident-detection-system
 
 ---
 
 ### 🤖 AI Health Diagnostic Platform
 
-* AI-based system for **skin disease detection**
-* Predicts **pregnancy risk using ML models**
-* Provides early medical insights
+👉 ML-based disease detection & prediction system
+🔗 https://github.com/MBhargavi18/ai-health-diagnostic-platform
 
 ---
 
 ### 🌐 Portfolio Website
 
-* Responsive personal portfolio
-* Optimized for performance and usability
+👉 Responsive personal portfolio
+🔗 https://github.com/MBhargavi18/portfolio-website
 
 ---
 
@@ -59,41 +50,34 @@ Git | GitHub | AWS | Power BI
 
 **💻 Web Development Intern – Technology Learning Center**
 
-* Developed responsive web pages using HTML, CSS, JavaScript
+* Built responsive web applications
 
-**🌐 Prodigy Infotech (Intern)**
+**🌐 Prodigy Infotech**
 
-* Built client-based responsive web applications
+* Developed client-based web projects
 
 **☕ Cognifyz (Java Intern)**
 
-* Implemented OOP-based Java programs
-* Debugged and improved application efficiency
+* Implemented OOP concepts & debugging
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Ranked 1st in Code Unnati Marathon Program
-📢 Presented AI Health Diagnostic Project at IETE
+🥇 Code Unnati Marathon – Rank 1
+📢 Presented AI Project at IETE
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-* Generative AI Data Analytics – Forage
-* Machine Learning for Cybersecurity Bootcamp
-* IBM Data Visualization with Python
-* AWS Prompt Engineering
+![Bhargavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBhargavi18\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 Email: [medaboinabhargavi64@gmail.com](mailto:medaboinabhargavi64@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/bhargavi-cse/
-💻 GitHub: https://github.com/MBhargavi18
 
 ---
-
-⭐ *Building real-world projects and continuously improving my skills*
